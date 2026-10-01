@@ -398,12 +398,14 @@ https://digitalpulsebrief.com/gemini-4-argon/
 
 ## Primary Sources
 
-- Google — Gemini 4 Argon announcement
-- Google DeepMind — Gemini model information
-- Google DeepMind — Gemini evaluation methodology
-- Google AI for Developers — Gemini API pricing
+- [Google — Gemini 4 Argon announcement](https://blog.google/intl/es-419/noticias-de-la-empresa/tecnologia/gemini-4-argon/)
+- [Google DeepMind — Gemini models](https://deepmind.google/models/gemini/)
+- [Google DeepMind — Gemini 4 Argon evaluation methodology](https://deepmind.google/models/evals-methodology/gemini-4-argon)
+- [Google AI for Developers — Gemini API pricing](https://ai.google.dev/gemini-api/docs/pricing)
 
-For source links, updates and complete editorial context, refer to the original Digital Pulse Brief article.
+For updates, additional context and the original editorial version, read:
+
+https://digitalpulsebrief.com/gemini-4-argon/
 
 ---
 
